@@ -1,14 +1,25 @@
-# MERN-CHAT-APP
+# VCHAT-APP
 
-<a href="https://mern-chat-app-rgq1.onrender.com/login">Click Here</a>
+<a href="https://vchat-itq9.onrender.com/login">Visit site</a>
 
-Some Features:
+Vchat: Your Virtual Communication Hub
+Vchat is a user-friendly platform designed to facilitate seamless communication between individuals, regardless of their geographical location. It offers a secure and reliable environment for real-time text-based conversations.
 
--   🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
--   🎃 Authentication && Authorization with JWT
--   👾 Real-time messaging with Socket.io
--   🚀 Online user status (Socket.io and React Context)
--   👌 Global state management with Zustand
--   🐞 Error handling both on the server and on the client
--   ⭐ At the end Deployment like a pro for FREE!
--   ⏳ And much more!
+Key Features
+- Secure Messaging: Protect your conversations with end-to-end encryption.
+- Real-time Chat: Enjoy instant messaging with minimal latency.
+
+Getting Started
+
+- Registration: Create an account using your preferred credentials.
+- Start Chatting: Search for friends or create new conversations.
+
+Contributing
+
+We welcome contributions from the community. If you'd like to contribute, please follow these guidelines:
+
+- Fork the Repository: Create a copy of the project on your GitHub account.   
+- Make Changes: Implement your desired features or bug fixes.
+- Create a Pull Request: Submit your changes for review.
+
+Thank you for choosing Vchat!
